@@ -11,6 +11,9 @@ This project showcases an example of how to style a web form using CSS. The HTML
 - License
 
 ## Demo
+### Plain postcard
+![Plain postcard without form inputs](postcard.jpeg)
+### Postcard with form inputs
 Check out the [live demo](https://elsiechen.github.io/Postcard/).
 
 ## Technologies Used
