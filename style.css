@@ -1,3 +1,4 @@
+/* using two different files for each font to maximize browser compatibility; */
 @font-face {
     font-family: 'handwriting';
     src: url('fonts/journal-webfont.woff2') format('woff2'),url('fonts/journal-webfont.woff') format('woff');
